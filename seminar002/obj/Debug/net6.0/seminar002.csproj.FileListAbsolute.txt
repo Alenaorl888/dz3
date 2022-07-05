@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\семинар3\seminar\seminar002\bin\Debug\net6.0\seminar002.exe
+C:\Users\asus\Desktop\семинар3\seminar\seminar002\bin\Debug\net6.0\seminar002.deps.json
+C:\Users\asus\Desktop\семинар3\seminar\seminar002\bin\Debug\net6.0\seminar002.runtimeconfig.json
+C:\Users\asus\Desktop\семинар3\seminar\seminar002\bin\Debug\net6.0\seminar002.dll
+C:\Users\asus\Desktop\семинар3\seminar\seminar002\bin\Debug\net6.0\seminar002.pdb
+C:\Users\asus\Desktop\семинар3\seminar\seminar002\obj\Debug\net6.0\seminar002.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\семинар3\seminar\seminar002\obj\Debug\net6.0\seminar002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\семинар3\seminar\seminar002\obj\Debug\net6.0\seminar002.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\семинар3\seminar\seminar002\obj\Debug\net6.0\seminar002.AssemblyInfo.cs
+C:\Users\asus\Desktop\семинар3\seminar\seminar002\obj\Debug\net6.0\seminar002.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\семинар3\seminar\seminar002\obj\Debug\net6.0\seminar002.dll
+C:\Users\asus\Desktop\семинар3\seminar\seminar002\obj\Debug\net6.0\refint\seminar002.dll
+C:\Users\asus\Desktop\семинар3\seminar\seminar002\obj\Debug\net6.0\seminar002.pdb
+C:\Users\asus\Desktop\семинар3\seminar\seminar002\obj\Debug\net6.0\seminar002.genruntimeconfig.cache
+C:\Users\asus\Desktop\семинар3\seminar\seminar002\obj\Debug\net6.0\ref\seminar002.dll
